@@ -1,0 +1,24 @@
+---What is the game about---
+It is a who dunnit game for users who are playing on the same laptop
+
+there are users in a room and one killer in their midst
+
+each round, the killer kills a player and the group have to pick one person to eliminate who they think is the killer
+
+if the killer is eliminated before there are two players left. the killer wins
+
+if the group chooses the killer before then, the group wins
+
+---ideas---
+
+I think we should remove time.sleep and just be passing the computer around so each person enters a name as if they were the killer and passes the device
+
+the name each person enters must be in the list of names regardless of if it's a fake kill or not
+
+we should say give the laptop to name and ask is name with the laptop then print what we wan to say
+
+class of people and a subclass of killer whose kill will actually kill
+
+a summarry after each round maybe a class of round for that idk
+
+
