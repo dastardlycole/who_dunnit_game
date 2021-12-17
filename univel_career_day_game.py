@@ -35,7 +35,7 @@ def play_game():
         print(f'You have killed {group_guess}')
         people_in_class.remove(group_guess)
         if group_guess == killer:   
-            print(f'Congratulations you have elimminated the murder')
+            print(f'Congratulations you have eliminated the murder')
             break
         elif group_guess != killer:
             print(f'{group_guess} was innocent\r\nThe killer is still out there..')    
